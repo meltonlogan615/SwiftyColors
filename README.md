@@ -1,5 +1,5 @@
 # SwiftyColors
-A list of named Web Safe Colors UIColor Extension
+A list of named Web Safe Colors as a UIColor Extension
 
 120 additional named colors to use in projects.
 
